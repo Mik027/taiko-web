@@ -1,3 +1,5 @@
+This project is a reimplementation of bui's work, which was deleted. No changes have been made to the original code. We aim to keep this web-based Taiko no Tatsujin simulator accessible and functional, especially on Chrome.
+
 # taiko-web
 A web-based Taiko no Tatsujin simulator.
 
